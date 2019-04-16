@@ -4,9 +4,10 @@ Notas das Reuniões Realizadas pelo Grupo GDG Londrina
 ***Ultimas Reuniões***
 
 - [11/03/2019](reunioes/11-03-2019.md)
+- [25/03/2019](reunioes/25-03-2019.md)
 
 ### Agenda
-Agendado para 25/03/2019 as 21:00
+Agendado para 15/04/2019 as 21:30
 
 ### Membros
 * [@gdglondrina/organizadores](https://github.com/orgs/gdglondrina/teams/organizadores/members)
